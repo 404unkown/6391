@@ -1,12 +1,12 @@
 {
   "name": "gifted-pair-code",
-  "main": "server.js",
+  "main": "gifted.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node gifted.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
